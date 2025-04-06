@@ -8,8 +8,7 @@
 - 🔭 I'm an aspiring **Data Scientist** currently exploring real-world ML & DL projects  
 - 🎓 Pursuing B.Tech in **Artificial Intelligence & Data Science**  
 - 📊 I love turning data into insights using **Data Visualization** tools  
-- 🧠 Learning **Machine Learning**, **Deep Learning**, and mastering **DSA** for my 40 LPA dream  
-- 🌱 Open to **Internship Opportunities** in the Data Science field
+- 🧠 Learning **Machine Learning**, **Deep Learning**, and mastering **DSA**
 
 ---
 
